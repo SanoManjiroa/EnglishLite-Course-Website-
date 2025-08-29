@@ -130,7 +130,7 @@ export function Footer() {
           </div>
                     <p className="text-primary-foreground/60">
             © 2025 EnglishLite. <span data-translate="copyright">Barcha huquqlar himoyalangan.</span>
-             <span data-translate="copyright">Author: Komilova Irodabonu</span>
+             <p className="text-primary-foreground/60"> <span data-translate="copyright">Author: Komilova Irodabonu</span>  </p>
           </p>
         </div>
       </div>
