@@ -128,8 +128,9 @@ export function Footer() {
             />
             <span className="font-semibold">EnglishLite</span>
           </div>
-          <p className="text-primary-foreground/60">
-            © 2024 EnglishLite. <span data-translate="copyright">Barcha huquqlar himoyalangan.</span>
+                    <p className="text-primary-foreground/60">
+            © 2025 EnglishLite. <span data-translate="copyright">Barcha huquqlar himoyalangan.</span>
+             <span data-translate="copyright">Author: Komilova Irodabonu</span>
           </p>
         </div>
       </div>
